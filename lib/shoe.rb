@@ -2,6 +2,8 @@ def Shoe
   
   
   
+  def initialize()
+  
   
   
   
